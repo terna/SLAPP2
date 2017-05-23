@@ -1,0 +1,3 @@
+- move to Python3
+- add parallel capabilities via [https://ipyparallel.readthedocs.io](https://ipyparallel.readthedocs.io)
+- eliminate *penPosition.py* when not used by a project

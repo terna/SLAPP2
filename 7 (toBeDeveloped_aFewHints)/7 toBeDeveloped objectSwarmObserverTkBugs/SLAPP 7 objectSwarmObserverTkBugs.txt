@@ -1,0 +1,5 @@
+EMBED THE MODEL SWARM IN AN OBSERVER SWARM, PROVIDING GRAPHICAL
+                 VISUALIZATION AND INTERACTION
+
+
+To be developed, this is only a starting point and the code is based on the 20081222 code.
