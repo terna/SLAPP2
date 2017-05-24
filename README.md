@@ -5,7 +5,7 @@ SLAPP <img src="./-pictures/slapp-logo.png" height="90" />
 
 Swarm-Like Agent Protocol in Python
 
-Here you have SLAPP **v.2.0 build 20170524** (in the [SLAPP repository](http://terna.to.it/slapp_dep/) you have related material and very old versions; more recent ones are here in the Git).
+Here you have SLAPP **v2.0 build 20170524** (in the [SLAPP repository](http://terna.to.it/slapp_dep/) you have related material and very old versions; more recent ones are here in the Git).
 
 We have here also a [**Reference Handbook**](https://github.com/terna/SLAPP2/blob/master/SLAPP_Reference_Handbook.pdf) (it is still a draft and has to be improved).
 
