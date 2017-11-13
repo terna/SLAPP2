@@ -269,3 +269,7 @@ last change: fixed an error with Tkinter, using IPython 5.0 or greater
       improvement
 
       The next version, with 3.0 number, will be running in Python 3
+
+(2017 11 13)
+
+2.0   Build 20171113 to adapt the *production* project to NetworkX 2.0
