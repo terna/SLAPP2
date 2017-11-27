@@ -273,3 +273,7 @@ last change: fixed an error with Tkinter, using IPython 5.0 or greater
 (2017 11 13)
 
 2.0   Build 20171113 to adapt the *production* project to NetworkX 2.0
+
+(2017 11 27)
+
+2.0   Build 20171127 to adapt again the *production* project to NetworkX 2.0
